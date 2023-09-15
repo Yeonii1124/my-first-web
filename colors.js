@@ -10,6 +10,8 @@ var Links = {
 
   }
 }
+// this is update something 
+
 var Body = {
   setColor:function (color){
     // document.querySelector('body').style.color = color;
